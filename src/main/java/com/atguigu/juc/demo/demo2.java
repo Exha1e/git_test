@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class demo2 {
     //定义一个常量
-    int num = 0;
+    int num = 1;
     //定义锁
     Lock lock = new ReentrantLock();
     //定义钥匙
